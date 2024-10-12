@@ -1,4 +1,4 @@
-module codec-SPI
+module ZX-1166Y-SPI
 
 go 1.23.0
 
